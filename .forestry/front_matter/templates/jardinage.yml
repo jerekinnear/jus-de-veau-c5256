@@ -10,3 +10,4 @@ fields:
   description: Ajouter un titre
 pages:
 - _posts/2022-07-12-hello.md
+- test.md

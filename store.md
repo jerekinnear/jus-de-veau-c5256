@@ -1,5 +1,5 @@
 ---
-title: Commandes
+title: Store
 layout: store
 sections:
 - type: store_section

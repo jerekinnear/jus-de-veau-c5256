@@ -1,0 +1,16 @@
+---
+label: D'europe
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: number
+  name: order
+  label: order
+- type: text
+  name: section
+  label: section

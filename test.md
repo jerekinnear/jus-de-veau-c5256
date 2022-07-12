@@ -2,4 +2,4 @@
 titre: Test
 
 ---
-dsadad
+![](/images/team.jpg)dsadad

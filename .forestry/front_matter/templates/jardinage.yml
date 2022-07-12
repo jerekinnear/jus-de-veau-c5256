@@ -8,3 +8,5 @@ fields:
     required: false
   label: Titre
   description: Ajouter un titre
+pages:
+- _posts/hello.md

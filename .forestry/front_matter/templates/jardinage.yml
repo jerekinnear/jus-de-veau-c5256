@@ -9,4 +9,4 @@ fields:
   label: Titre
   description: Ajouter un titre
 pages:
-- _posts/hello.md
+- _posts/2022-07-12-hello.md

@@ -42,7 +42,7 @@ sections:
 - type: promotion_section
   section_id: promotion_section
   title: A new home interior for summer
-  subtitle: from $149.99
+  subtitle: Dès 5 CHF pièce
   image: images/promo.jpg
   cta:
     title: Discover

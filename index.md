@@ -6,7 +6,7 @@ sections:
 - type: hero_section
   section_id: hero_section
   background_image: images/header.jpg
-  content: "# Votre potager n'as jamais été aussi beau qu'avec Farm-IT"
+  content: "# Votre potager n'as jamais été aussi fort."
   actions:
   - title: See all items
     url: "/store"

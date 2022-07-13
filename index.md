@@ -8,7 +8,7 @@ sections:
   background_image: images/header.jpg
   content: "# Votre potager n'as jamais été aussi fort."
   actions:
-  - title: See all items
+  - title: Nos plantons
     url: "/store"
     arrow: true
 - type: featured_products_section
